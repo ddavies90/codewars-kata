@@ -1,0 +1,27 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddavies90/codewars-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddavies90/codewars-kata/issues"
+  },
+  "homepage": "https://github.com/ddavies90/codewars-kata#readme"
+}

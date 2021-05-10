@@ -5,3 +5,5 @@ function monkeyCount(n) {
     }
     return monkeys;
 }
+
+    module.exports = monkeyCount;
